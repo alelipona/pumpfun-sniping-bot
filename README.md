@@ -63,6 +63,7 @@ SELL_BONDING_CURVE_PROGRESS=15
   \`\`\`sh
   node main.mjs
   \`\`\`
+![Running Bot](preview.png)
 
 - **Sell all SPL tokens**:
   \`\`\`sh
