@@ -4,10 +4,13 @@ Copyright © Diveinprogramming
 
 ![Running Bot](bot.png)
 
-"Please support if you like my efforts"
+1 npm install 
+2 Load .env file 
+3 node main.mjs 
+4 Enjoy profit 
+5 Support if you want 
 
-
-Welcome to the Pump.fun Solana Trading Bot! This tool, developed by Diveinprogramming, is designed for trading and sniping new token launches on pump.fun. It includes strategies for buying and selling tokens based on market cap changes and bonding curve progress.
+Welcome to the Pump.fun Zero Fee Solana Trading Bot! This tool, developed by Diveinprogramming, is designed for trading and sniping new token launches on pump.fun. It includes strategies for buying and selling tokens based on market cap changes and bonding curve progress.
 
 ## Overview
 
