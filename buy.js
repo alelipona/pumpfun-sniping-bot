@@ -109,7 +109,7 @@ const sellAllTokens = async () => {
       }
 
       if (!txHash) {
-        console.log(`Failed to sell token ${mint} after multiple attempts.`);
+        console.log(`Failed to sell token ${mint} after multiple attempt.`);
       }
     } else {
       console.log(
