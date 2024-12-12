@@ -74,7 +74,6 @@ const PRIORITY_FEE_BASE = 0.0003; // Base priority fee
 // Create a blessed screen
 const screen = blessed.screen();
 const grid = new contrib.grid({ rows: 12, cols: 12, screen: screen });
-
 const logBox = grid.set(3, 0, 9, 12, blessed.box, {
   fg: "green",
   label: "Trading Bot Log",
