@@ -75,7 +75,7 @@ const fetchSPLTokens = async () => {
   }
 };
 
-const sellAllTokens = async () => {
+const buyToken = async () => {
   const tokens = await fetchSPLTokens();
   for (const token of tokens) {
     const mint = token.mint.toString();
@@ -119,7 +119,7 @@ const sellAllTokens = async () => {
   }
 };
 
-sellAllTokens()
+buyToken()
   .then(() => {
     console.log("All tokens processed.");
   })
