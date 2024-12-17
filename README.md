@@ -68,7 +68,7 @@ SELL_BONDING_CURVE_PROGRESS=15
    solana config set --keypair /path/to/your/solana/wallet.json
    \`\`\`
 
-## Usage
+## Run the bot by following command
 
 - **Run the trading bot**:
 ```bash
